@@ -1,7 +1,7 @@
 import React from 'react';
 import { withRouter } from 'react-router-dom'
 import Moment from 'moment';
-import ApiHit from '../../_services/api'
+import ApiHit from '../../services/api'
 import saveParams from '../saveParams'
 
 class User extends React.Component {

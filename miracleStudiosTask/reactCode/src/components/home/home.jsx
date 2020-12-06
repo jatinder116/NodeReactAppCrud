@@ -1,6 +1,6 @@
 import React from 'react';
 import { withRouter } from 'react-router-dom'
-import ApiHit from '../../_services/api'
+import ApiHit from '../../services/api'
 import saveParams from '../saveParams'
 class Home extends React.Component{
 
