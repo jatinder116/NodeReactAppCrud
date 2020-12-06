@@ -2,7 +2,7 @@
 import axios from 'axios'
 const baseUrl="http://localhost:3001/"
 
- class ApiFun {
+ class ApiHit {
     static postApi(url,data){
         return axios.post(baseUrl + url, data);   
     }
@@ -44,4 +44,4 @@ const baseUrl="http://localhost:3001/"
   
 }
 
-export default ApiFun
+export default ApiHit
