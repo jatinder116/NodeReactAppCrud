@@ -1,0 +1,4 @@
+-> Download this repository
+-> Run npm install command in terminal
+-> Run npm start
+-> Then Redirect to "http://localhost:3000/" 
